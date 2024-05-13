@@ -1,5 +1,5 @@
-### Hi there 👋, my name is chezis
-#### I am a alumnus
+## Hi there 👋, my name is chezis
+### I am a alumnus
 ![I am a alumnus](https://github.com/TRIBUI106/TRIBUI106/blob/main/omg%20what%20the%20fack%20banner.png)
 
 I don't know I just collected this template on internet
