@@ -11,8 +11,3 @@ Skills: Java / HTML / CSS
 - 😄 Pronouns: chezis, trb 
 - ⚡ Fun fact: I don't know anything about Java, I just feel pro when i use it 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TRIBUI106)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tr1s.vn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/TRIBUI106)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIBUI106)](https://github.com/anuraghazra/github-readme-stats)
-
