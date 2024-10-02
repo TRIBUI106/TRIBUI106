@@ -28,9 +28,9 @@
   <a href="https://www.youtube.com/@fpt_chezis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a> -->
-  <a href="https://facebook.com/100036899926728">
-    <img src="https://media.discordapp.net/attachments/1285111185582325823/1286350393416089650/banner_casso.gif?ex=66fe1169&is=66fcbfe9&hm=8a545e7355ca43949dc3e1ecf7812ddbab16d9223a6697dae08b16978ae5e517" alt="casso banner"  />
-  </a>
+    
+  <img src="https://cdn.discordapp.com/attachments/1285111185582325823/1286350393416089650/banner_casso.gif?ex=66fe1169&is=66fcbfe9&hm=8a545e7355ca43949dc3e1ecf7812ddbab16d9223a6697dae08b16978ae5e517&" alt="casso banner"  />
+  
 </div>
 
 ###
