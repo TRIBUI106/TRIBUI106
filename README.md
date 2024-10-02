@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is fg.chezis and I'm a Junior, from Vietnam</h2>
+<h2 align="left">Hi 👋! My name is cas.chezis and I'm a Junior, from Vietnam</h2>
 
 ###
 
