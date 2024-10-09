@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRIBUI106&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TRIBUI106&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TRIBUI106&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TRIBUI106&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1285111185582325823/1293588161565425726/chezis_fix_hair.png?ex=6707eb5b&is=670699db&hm=622198a9ede7fb6a0852e3750932c9d0f11a105a4328c6b05849a2a9e6ba4b3b&=&format=webp&quality=lossless&width=676&height=676"  />
 
 ###
 
@@ -46,22 +42,12 @@
 
 ###
 
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1285111185582325823/1293588161565425726/chezis_fix_hair.png?ex=6707eb5b&is=670699db&hm=622198a9ede7fb6a0852e3750932c9d0f11a105a4328c6b05849a2a9e6ba4b3b&=&format=webp&quality=lossless&width=676&height=676"  />
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/TRIBUI106/TRIBUI106/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=TRIBUI106&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TRIBUI106/count.svg?"  />
-</div>
 
 ###
