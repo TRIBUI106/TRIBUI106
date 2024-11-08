@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is chezis and I'm a Junior FullStack Dev from Vietnam 🇻🇳</h2>
+<!-- <h2 align="left">Hi 👋! My name is chezis and I'm a Junior FullStack Dev from Vietnam 🇻🇳</h2> -->
+<h2 align="left">Hi 👋! My name is chez1s and I'm a Software Development Student from Vietnam 🇻🇳</h2>
 
 ###
 
