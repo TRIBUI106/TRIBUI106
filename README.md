@@ -8,6 +8,7 @@
         <img src="https://img.shields.io/badge/-Lua-00007f?style=for-the-badge&logo=lua&logoColor=00007f&labelColor=282828">
         <img src="https://img.shields.io/badge/-MariaDB-c0765a?style=for-the-badge&logo=mariadb&logoColor=c0765a&labelColor=282828">
         <img src="https://img.shields.io/badge/Java-bd4234?style=for-the-badge&logo=oracle&logoColor=bd4234&labelColor=282828">
+        <img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828">
     </div>
 </p>
 
