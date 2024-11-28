@@ -1,6 +1,16 @@
-<h2 align="left">Hi 👋! My name is chez1s and I'm a Software Development Student from Vietnam 🇻🇳</h2>
+<h1 align="center">
+  <b>Bui Duc Tri</b>
+</h1>
 
-###
+<p>
+    <div align="center">
+        <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828">
+        <img src="https://img.shields.io/badge/-Lua-00007f?style=for-the-badge&logo=lua&logoColor=00007f&labelColor=282828">
+        <img src="https://img.shields.io/badge/-MariaDB-c0765a?style=for-the-badge&logo=mariadb&logoColor=c0765a&labelColor=282828">
+        <img src="https://img.shields.io/badge/Java-bd4234?style=for-the-badge&logo=oracle&logoColor=bd4234&labelColor=282828">
+    </div>
+</p>
+
 ``` java
 package chezis;
 
@@ -13,10 +23,14 @@ public class AboutMe {
     
 }
 ```
-###
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=TRIBUI106&show_icons=true&theme=transparent" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TRIBUI106&theme=dark&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRIBUI106&theme=dark&hide_progress=true" height="150" alt="languages graph">
-  
-</div>
+
+## My Statistics
+
+<br/>
+<p align="center">
+  <a href="https://abhigyantrips.dev/">
+    <img src="https://github-readme-stats.vercel.app/api?username=TRIBUI106&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TRIBUI106&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
