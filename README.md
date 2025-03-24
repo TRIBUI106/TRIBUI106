@@ -9,6 +9,7 @@
         <img src="https://img.shields.io/badge/-Lua-00007f?style=for-the-badge&logo=lua&logoColor=00007f&labelColor=282828">
         <img src="https://img.shields.io/badge/-MariaDB-c0765a?style=for-the-badge&logo=mariadb&logoColor=c0765a&labelColor=282828">
         <img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828">
+        <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=fff&labelColor=282828">
     </div>
 </p>
 
