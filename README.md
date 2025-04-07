@@ -15,7 +15,7 @@
 
 ## 👨‍💻 **About Me**
 ```java
-package me.chez1s;
+package me.TRIBUI106;
 
 public class AboutMe {
     
