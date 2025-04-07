@@ -15,7 +15,7 @@
 
 ## 👨‍💻 **About Me**
 ```java
-package me.TRIBUI106;
+package me.tribui106;
 
 public class AboutMe {
     
