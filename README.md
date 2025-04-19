@@ -22,7 +22,7 @@ public class AboutMe {
     String username = "chez1s";
     String name = "Bui Duc Tri";
     String location = "Binh Duong, Vietnam";
-    String website = "https://yeume-enterprise.edu.vn";
+    String website = "https://chez1s.is-a.dev";
     
 }
 ```
