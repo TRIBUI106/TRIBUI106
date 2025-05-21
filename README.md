@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=282828">
 </div>
 
-## 👨‍💻 **About Meeeee**
+## 👨‍💻 **About Me**
 ```java
 package me.chez1s;
 
