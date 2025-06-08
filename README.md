@@ -27,11 +27,3 @@ public class AboutMe {
 }
 ```
 
-## 📊 My Statistics
-
-<p align="center">
-  <a href="https://yeume-enterprise.edu.vn/">
-    <img width="48.5%" height="200px" src="https://github-readme-stats.vercel.app/api?username=TRIBUI106&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="48.5%" height="205px" src="https://github-readme-streak-stats-tribui106s-projects.vercel.app?user=TRIBUI106&theme=gruvbox&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
-  </a>
-</p>
