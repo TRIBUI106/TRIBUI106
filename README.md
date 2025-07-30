@@ -29,8 +29,7 @@ public class AboutMe {
     String username = "chez1s";
     String name = "Bui Duc Tri";
     String location = "Binh Duong, Vietnam";
-    String teamWebsite = "https://chez1s.is-a.dev";
-    String selfWebsite = "https://chez1s-learning-vuejs.vercel.app/";
+    String website = "https://chez1s-learning-vuejs.vercel.app/";
     
 }
 ```
