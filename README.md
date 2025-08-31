@@ -1,5 +1,4 @@
 
-# long time no code
 
 <h1 align="center">
   <b> Bui Duc Tri < / > </b>
