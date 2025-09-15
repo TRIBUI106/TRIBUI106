@@ -1,5 +1,3 @@
-ayyyy guys it's time to learn vue again, wait for meeee
-
 <h1 align="center">
   <b> Bui Duc Tri < / > </b>
 </h1>
