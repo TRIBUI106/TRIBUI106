@@ -24,7 +24,7 @@ public class AboutMe {
     
     String username = "chez1s";
     String name = "Bui Duc Tri";
-    String location = "Binh Duong, Vietnam";
+    String location = "HCMC, Vietnam";
     String website = "https://chez1s.is-a.dev/";
     
 }
