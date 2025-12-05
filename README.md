@@ -2,8 +2,6 @@
   <b> Bui Duc Tri < / > </b>
 </h1>
 
-Code mà không nhảy attribute ???
-
 ## 🔥 <strong>TechStack</strong>
 
 <div align="center">
