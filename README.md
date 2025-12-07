@@ -1,5 +1,6 @@
 <h1 align="center">
-  <b> Bui Duc Tri < / > </b>
+  <b> Bui Duc Tri < / > 
+  </b>
 </h1>
 
 ## 🔥 <strong>TechStack</strong>
