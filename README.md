@@ -12,7 +12,7 @@ public class AboutMe {
     String username = "chez1s";
     String name = "Bui Duc Tri";
     String location = "HCMC, Vietnam";
-    String website = "https://chez1s.is-a.dev/";
+    String website = "https://yeumedevs.space/";
     
 }
 ```
