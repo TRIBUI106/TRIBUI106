@@ -1,19 +1,15 @@
 <h1 align="center">
   <b> Bui Duc Tri < / >  
-  </b>
 </h1>
 
 ## 👨‍💻 **About Me**
-```java
-package me.chez1s;
-
-public class AboutMe {
-    
-    String username = "chez1s";
-    String name = "Bui Duc Tri";
-    String location = "HCMC, Vietnam";
-    String website = "https://yeumedevs.space/";
-    
+```jsx
+const Bio = () => {
+  return {
+    name: "Bui Duc Tri",
+    aka: "chez1s",
+    location: "HCMC, Vietnam",
+    blog: "https://yeumedevs.space/",
+    status: "🚀 Constantly learning & building"
+  };
 }
-```
-
