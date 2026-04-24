@@ -10,6 +10,7 @@ const Bio = () => {
     aka: "chez1s",
     location: "HCMC, Vietnam",
     blog: "https://yeumedevs.space/",
-    status: "🚀 Constantly learning & building"
+    status: "🚀 Constantly learning & building, Java dev whose learning CS .Net and React",
+    
   };
 }
